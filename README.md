@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Diaz</h1>
 <h3 align="center">I am a passionate backend developer from Colombia.</h3>
 
-- 🌱 I’m currently learning **Flask, django, vue, web design, docker, mongo, postgreSQL**
+- 🌱 I’m currently learning **django, vue, docker, mongo, postgreSQL**
 
 - 💬 Ask me about **passionate (python, java, php) Developer**
 
